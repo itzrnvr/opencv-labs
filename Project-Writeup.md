@@ -2,8 +2,6 @@
 
 This document details the methodology behind a computer vision project aimed at identifying lane markings on roadways. The system leverages the power of Python in conjunction with the OpenCV library to process visual data, first from static images and subsequently from video sequences. The core of this endeavor is a carefully constructed image processing pipeline designed to robustly detect and delineate lane lines.
 
-![Lane Detection in Action](output_example.jpg)
-*(Illustrative output of the lane detection system)*
 
 ## **Architectural Blueprint of the Lane Detection System**
 
